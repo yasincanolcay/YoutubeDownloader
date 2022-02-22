@@ -1,0 +1,26 @@
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.csproj.AssemblyReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\youtube_downloader\youtube_downloader\obj\Debug\Interop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\youtube_downloader\youtube_downloader\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.csproj.ResolveComReference.cache
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\youtube_downloader.exe.config
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\youtube_downloader.exe
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\youtube_downloader.pdb
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\Interop.WMPLib.dll
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\AxInterop.WMPLib.dll
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.csproj.AssemblyReference.cache
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\Interop.WMPLib.dll
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\AxInterop.WMPLib.dll
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.csproj.ResolveComReference.cache
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.Form1.resources
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.Properties.Resources.resources
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.csproj.GenerateResource.cache
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.csproj.CoreCompileInputs.cache
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.exe
+C:\csharp projelerim\youtube_downloader\youtube_downloader\obj\Debug\youtube_downloader.pdb
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\libvideo.dll
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\MediaToolkit.dll
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\Newtonsoft.Json.dll
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\NiL.JS.dll
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\Newtonsoft.Json.xml
+C:\csharp projelerim\youtube_downloader\youtube_downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
